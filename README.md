@@ -1,0 +1,2 @@
+# Hybrid-Images
+Constructing a hybrid image of abraham lincon and a tiger. Additional information about the seperability of the Gaussian kernel and Sobel kernel can be found in the pdf, along with the results of using various kernels (box, gaussian) to create the hybrid images. Also included are the results of applying the filters to the Discrete Fourier transform of the images (frequency domain).
